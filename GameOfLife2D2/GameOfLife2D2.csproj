@@ -113,8 +113,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cell.cs" />
-    <Compile Include="Matrix2D\Matrix2D\Matrix2D.Internals.cs" />
-    <Compile Include="Matrix2D\Matrix2D\Matrix2D.Neighbors.cs" />
+    <Compile Include="Matrix2D\Matrix2D.Internals.cs" />
+    <Compile Include="Matrix2D\Matrix2D.Neighbors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SharpDxHelper.cs" />
